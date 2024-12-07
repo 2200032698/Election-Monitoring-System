@@ -6,7 +6,7 @@
 ##### Election Observer: Monitor election activities, report anomalies, and provide insights on fairness and transparency.
 ##### Data Analyst: Analyze election data, generate reports, and provide real-time updates.
 
-###### Deplyment Link : https://election-monitoring-system.netlify.app/
+##### Deployment Link : https://election-monitoring-system.netlify.app/
 
 ##### Output Screenshots: 
 Home page:
