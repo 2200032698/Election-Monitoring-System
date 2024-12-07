@@ -1,11 +1,14 @@
 # Election Monitoring System
 ### JFSD Project
 #### Develop a system to monitor elections and ensure they are fair and transparent. The app should help prevent fraud, track election processes, and encourage civic engagement among new voters by providing clear and reliable information. 
-##### Admin: Manage the system, monitor election data, and ensure platform security.
-##### Citizen: Track election processes, report issues, and engage in civic discussions.
-##### Election Observer: Monitor election activities, report anomalies, and provide insights on fairness and transparency.
-##### Data Analyst: Analyze election data, generate reports, and provide real-time updates.
-#### Output Screenshots: 
+###### Admin: Manage the system, monitor election data, and ensure platform security.
+###### Citizen: Track election processes, report issues, and engage in civic discussions.
+###### Election Observer: Monitor election activities, report anomalies, and provide insights on fairness and transparency.
+###### Data Analyst: Analyze election data, generate reports, and provide real-time updates.
+
+###### Deplyment Link : https://election-monitoring-system.netlify.app/
+
+##### Output Screenshots: 
 Home page:
 ![image](https://github.com/user-attachments/assets/e67b295f-a3c0-432d-a99a-3ea4dbf42520)
 
@@ -17,12 +20,17 @@ Login Page:
 
 Admin Dashboard:
 ![image](https://github.com/user-attachments/assets/ef6f2352-aa09-473f-bc77-9680dccd3368)
+
 Manage Voters:
 ![image](https://github.com/user-attachments/assets/865f57aa-63e5-4909-940c-0c66b1faf2f7)
+
 Add Candidate:
 ![image](https://github.com/user-attachments/assets/8f860e7e-1c6d-4618-85d6-7fd893edc41e)
+
 Create and Manage Elections:
 ![image](https://github.com/user-attachments/assets/2a2ee3be-0a07-44e9-8eac-e1ded25539f4)
+
+****************************************************************************************************
 
 Observer Dashboard:
 ![image](https://github.com/user-attachments/assets/d1959a28-df7a-4aa5-b79d-26272f09aa28)
@@ -34,6 +42,8 @@ Assigned Polling Locations:
 ![image](https://github.com/user-attachments/assets/879a0744-552b-4a90-85bc-fbd88acf5777)
 Upcoming Events:
 ![image](https://github.com/user-attachments/assets/c7682562-ff66-4d85-bbe8-60052313ba49)
+
+*****************************************************************************************************
 
 Citizen Home Page:
 ![image](https://github.com/user-attachments/assets/1ffb909e-b8bf-4310-a733-fe6d35032cc8)
@@ -50,5 +60,3 @@ Candidate Information:
 Latest Updates:
 ![image](https://github.com/user-attachments/assets/53a3ed3d-8307-4bde-9e2d-e995ba9b12b9)
 
-
-###### Deplyment Link : https://election-monitoring-system.netlify.app/
